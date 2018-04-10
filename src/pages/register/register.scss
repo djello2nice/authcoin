@@ -1,0 +1,16 @@
+page-register {
+  	.background-image {
+  		background-image: url('../assets/imgs/authcoinliz.jpg');
+  		background-repeat: no-repeat;
+  		background-position: top;
+  		background-size: 200px 200px;
+  	}
+
+  .scroll-content {
+  		align-content: stretch;
+  		display: flex;
+  		flex-direction: column;
+  		justify-content: center;
+  		text-align: center;
+  	}
+}
