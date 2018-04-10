@@ -1,0 +1,2 @@
+# authcoin
+auth
